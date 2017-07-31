@@ -2,3 +2,4 @@ bar.txt
 Random Comment 2
 Random Comment 3
 Modification 1
+Modification 2
